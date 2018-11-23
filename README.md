@@ -51,4 +51,6 @@ Then you can call this http://localhost:8080/assets/1/ using curl or open it in 
     > $ curl http://localhost:8080/assets/1/
     {"id": 1, "metadata": {"date_created": "2018-11-22T19:25:27.364722", "status": "CLOSED", "title": "Asset 1"}, "name": "Asset 1"}%
 
-After that you can open http://localhost:16686 in your browser and check the tracing results
+After that you can open http://localhost:16686 in your browser and check the tracing results. It should look like this:
+
+![Alt text](screen.png "Jaeger test screenshot")
