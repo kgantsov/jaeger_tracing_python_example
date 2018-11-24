@@ -1,4 +1,4 @@
-# jaeger_tracing_python_example
+# Jaeger tracing example with python (Flask and aiohttp)
 Jaeger Distributed Tracing Python (Flask, aiohttp) Example
 
 
