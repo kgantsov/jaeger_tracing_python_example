@@ -9,7 +9,7 @@ Jaeger Distributed Tracing Python (Flask, aiohttp) Example
 
 # Running
 
-First of all you need to run jaeger all in one daemon. In my case I just downloaded compiled binary from https://www.jaegertracing.io/download/ and run it like this:
+First of all you need to run jaeger all in one daemon. In my case I just downloaded compiled binary from https://www.jaegertracing.io/download/ extract it from archive and run it like this:
 
     > $ ./jaeger-all-in-one
     {"level":"info","ts":1542910843.7501152,"caller":"healthcheck/handler.go:99","msg":"Health Check server started","http-port":14269,"status":"unavailable"}
